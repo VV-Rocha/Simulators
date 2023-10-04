@@ -1,0 +1,8 @@
+
+__pycache__/
+
+##  Notebooks with this name are used to quickly test a code and add no value to the project.
+test_code.ipynb
+
+##
+data/
